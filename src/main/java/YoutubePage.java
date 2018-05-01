@@ -34,6 +34,12 @@ public class YoutubePage extends AbstractPage{
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+        driver.navigate().refresh();
+        try {
+            Thread.sleep(30000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
 

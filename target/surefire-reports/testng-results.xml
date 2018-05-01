@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="TestNGTests" duration-ms="44418" started-at="2018-05-01T08:16:28Z" finished-at="2018-05-01T08:17:12Z">
+  <suite name="TestNGTests" duration-ms="40976" started-at="2018-05-01T12:48:13Z" finished-at="2018-05-01T12:48:54Z">
     <groups>
     </groups>
-    <test name="All Tests" duration-ms="44418" started-at="2018-05-01T08:16:28Z" finished-at="2018-05-01T08:17:12Z">
+    <test name="All Tests" duration-ms="40976" started-at="2018-05-01T12:48:13Z" finished-at="2018-05-01T12:48:54Z">
       <class name="YoutubeTest">
-        <test-method status="PASS" signature="startBrowser()[pri:0, instance:YoutubeTest@42d3bd8b]" name="startBrowser" is-config="true" duration-ms="3851" started-at="2018-05-01T11:16:28Z" finished-at="2018-05-01T11:16:32Z">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:YoutubeTest@dfd3711]" name="startBrowser" is-config="true" duration-ms="3335" started-at="2018-05-01T15:48:13Z" finished-at="2018-05-01T15:48:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startBrowser -->
-        <test-method status="PASS" signature="init()[pri:0, instance:YoutubeTest@42d3bd8b]" name="init" duration-ms="39770" started-at="2018-05-01T11:16:32Z" finished-at="2018-05-01T11:17:12Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:YoutubeTest@dfd3711]" name="init" duration-ms="36736" started-at="2018-05-01T15:48:17Z" finished-at="2018-05-01T15:48:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="endBrowser()[pri:0, instance:YoutubeTest@42d3bd8b]" name="endBrowser" is-config="true" duration-ms="776" started-at="2018-05-01T11:17:12Z" finished-at="2018-05-01T11:17:12Z">
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:YoutubeTest@dfd3711]" name="endBrowser" is-config="true" duration-ms="880" started-at="2018-05-01T15:48:53Z" finished-at="2018-05-01T15:48:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endBrowser -->
